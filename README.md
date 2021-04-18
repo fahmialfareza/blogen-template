@@ -1,2 +1,3 @@
-# blogen-template
-Make simple template with bootstrap 4
+# Blogen Template
+
+Make simple blog web template with bootstrap 4
